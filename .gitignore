@@ -1,0 +1,8 @@
+# FRONTEND
+frontend/node_modules/
+frontend/npm-debug.log
+frontend/yarn-error.log
+
+# BACKEND
+backend/__pycache__/
+backend/venv/
