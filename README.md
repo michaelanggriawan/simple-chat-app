@@ -16,8 +16,9 @@ Shipped with following these stacks:
 
 
 ### FRONTEND
-1. RUN ```yarn android``` or ```npm run android```
-2. Reverse the TCP port ``` adb reverse tcp:8000 tcp:8000```
+1. RUN ```yarn install``` to install necessary libraries
+2. RUN ```yarn android``` or ```npm run android```
+3. Reverse the TCP port ``` adb reverse tcp:8000 tcp:8000```
 
 
 
